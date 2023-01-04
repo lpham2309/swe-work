@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.ViewTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-23T01:27:30" hostname="Lams-MBP" time="0.008">
+  <properties/>
+  <testcase name="test_html_tags" classname="jrails.ViewTest" time="0.005"/>
+  <testcase name="test_br" classname="jrails.ViewTest" time="0.0"/>
+  <testcase name="test_show" classname="jrails.ViewTest" time="0.0"/>
+  <testcase name="test_new" classname="jrails.ViewTest" time="0.0"/>
+  <testcase name="test_show_route" classname="jrails.ViewTest" time="0.0"/>
+  <testcase name="empty" classname="jrails.ViewTest" time="0.0"/>
+  <testcase name="test_new_view" classname="jrails.ViewTest" time="0.0"/>
+  <testcase name="test_all_tags" classname="jrails.ViewTest" time="0.001"/>
+  <testcase name="test_book_view" classname="jrails.ViewTest" time="0.001"/>
+  <system-out><![CDATA[false]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

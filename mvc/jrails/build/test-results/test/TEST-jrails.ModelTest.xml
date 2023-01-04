@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.ModelTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-11-23T01:27:30" hostname="Lams-MBP" time="0.081">
+  <properties/>
+  <testcase name="test_two_instances" classname="jrails.ModelTest" time="0.006"/>
+  <testcase name="test_one_saved_model" classname="jrails.ModelTest" time="0.001"/>
+  <testcase name="test_ids" classname="jrails.ModelTest" time="0.001"/>
+  <testcase name="test_two_saved_model" classname="jrails.ModelTest" time="0.002"/>
+  <testcase name="test_override_content_with_id" classname="jrails.ModelTest" time="0.002"/>
+  <testcase name="test_input_with_space" classname="jrails.ModelTest" time="0.001"/>
+  <testcase name="test_multiple_saved" classname="jrails.ModelTest" time="0.049"/>
+  <testcase name="id" classname="jrails.ModelTest" time="0.0"/>
+  <testcase name="test_new_line" classname="jrails.ModelTest" time="0.001"/>
+  <testcase name="test_destroy" classname="jrails.ModelTest" time="0.009"/>
+  <testcase name="test_multiple_models" classname="jrails.ModelTest" time="0.003"/>
+  <testcase name="test_string_field_with_special_character" classname="jrails.ModelTest" time="0.001"/>
+  <testcase name="test_save_then_find" classname="jrails.ModelTest" time="0.002"/>
+  <testcase name="test_both_positive_and_negative_int" classname="jrails.ModelTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
